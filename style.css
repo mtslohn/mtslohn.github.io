@@ -5,6 +5,12 @@
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     font-family: sans-serif;
+    text-align: center;
+}
+
+.icons {
+    font-size: 2em;
+    text-align: center;
 }
 
 .header {
